@@ -3,7 +3,7 @@ Showcasing Personal Implementation of GSoC Gemini Project
 
 # Gemini Examples Migration to JavaScript (New SDK)
 
-This repository contains 7 migrated examples from the [Google Gemini Cookbook](https://github.com/google/generative-ai-docs), updated to:
+This repository contains 7 migrated examples from the [Google Gemini Cookbook](https://github.com/google-gemini/cookbook), updated to:
 - **JavaScript/TypeScript** implementation
 - **New Google AI SDK** (v1.0.0+)
 - **Tested** locally with working demos
