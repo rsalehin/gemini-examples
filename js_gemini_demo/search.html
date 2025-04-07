@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Opossum Search</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  text-align: center;
+  margin-top: 10vh;
+  flex-grow: 1;
+  width: 100%;
+  max-width: 600px; /* Match Google's search bar width */
+}
+
+#logo {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+#search-form {
+  display: flex;
+  width: 100%;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  height: 44px;
+  padding: 0 16px;
+  margin: 0 auto;
+  box-sizing: border-box; /* Ensures padding doesn't affect width */
+}
+
+#search-form:hover,
+#search-form:focus-within {
+  box-shadow: 0 1px 6px rgba(32,33,36,.28);
+  border-color: rgba(223,225,229,0);
+}
+
+#search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  padding: 0 10px;
+}
+
+#search-button {
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  cursor: pointer;
+  user-select: none;
+}
+
+#search-button:hover {
+  border-color: #dadce0;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img id="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Opossum_2.jpg/292px-Opossum_2.jpg" alt="Opossum Logo">
+  <form id="search-form" action="https://www.google.com/search" method="GET">
+    <input type="text" id="search-input" name="q">
+    <input type="hidden" name="q" id="opossum-query">
+    <input type="submit" value="Opossum Search" id = "search-button">
+  </form>
+</div>
+
+<footer>
+  Powered by opossum search
+</footer>
+
+<script>
+  document.getElementById('search-form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent the default form submission
+
+    var query = document.getElementById('search-input').value;
+    var opossumQuery = "opossum " + query;
+
+    // Construct the Google search URL
+    var googleSearchURL = "https://www.google.com/search?q=" + encodeURIComponent(opossumQuery);
+
+    // Redirect the user to the Google search URL
+    window.location.href = googleSearchURL;
+  });
+</script>
+
+</body>
+</html>
+```

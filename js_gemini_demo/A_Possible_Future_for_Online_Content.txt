@@ -1,0 +1,146 @@
+4/25/24, 9:40 PM
+
+(1) A Possible Future for Online Content
+
+A Possible Future for Online Content
+Reimagining Content Creation and Consumption with Generative AI
+
+JACLYN KONZELMANN - AI PRODUCT
+APR 18, 2024
+
+2
+
+Share
+
+I was recently asked how I would build a news agency from scratch if I were to start
+today, taking full advantage of the potential that generative AI has in
+revolutionizing the industry.
+While I won’t pretend to be an expert in the news industry - I do have a well
+informed point of view on how to think about generative AI and the potential it has
+to change products and experiences. Thinking about this through the lens of a
+news organization, I can’t help but feel that the changes could be vast, impacting
+both content creation and consumption. Here's my quick take on what I would be
+considering when it comes to rebuilding the product strategy from the ground up,
+putting generative AI at the center:
+
+1. Streamlining Sourcing and Writing:
+Effortless Research: Imagine a tool that makes aggregating information from
+various sources seamless - quickly pulling in voice memos, video clips, photos,
+user testimonials…anything and everything - then it’s able to extract relevant
+facts from these sources, highlighting unique perspectives for a potential story.
+This would empower journalists to quickly comb through every possible
+source and modality, discovering relevant context and nuances that could
+resonate best with their audience, saving precious time and effort while
+turning those into a story.
+
+https://jacalulu.substack.com/p/the-future-of-online-content
+
+1/5
+
+4/25/24, 9:40 PM
+
+(1) A Possible Future for Online Content
+
+Enhanced Writing: Once all the information has been pulled together,
+Generative AI can then assist in drafting different versions of a story, catering
+to various audience segments and platforms. From concise summaries to indepth analyses, the technology can adapt the writing style and tone to resonate
+with specific readers/listeners/viewers. Furthermore, the generated content
+can be created in a style that reflects the unique and personalized tone of each
+author.
+The key here is that AI wouldn’t replace the job of the writer, but rather augment
+their workflows to not only make them easier and faster, but also produce better
+content for the readers.
+
+2. Creative Content Remixing:
+Multi-Platform Distribution: Once your content is created, generative AI can
+help you tailor it for various platforms and formats. A long-form article could
+be transformed into a short video for YouTube or TikTok, an infographic for
+Instagram, or a concise summary for LinkedIn. This allows you to quickly and
+easily reach a wider audience and cater to different consumption preferences
+all starting from the same source material.
+Personalized Content Experiences: Imagine news articles that can be
+instantly converted into audio for listening when you’re on a walk, or turned
+into videos with accompanying graphics if you’re a visual learner. Generative
+AI can personalize the content experience by adapting to user preferences and
+learning over time. This could include summarizing key points, providing
+alternative explanations, or even generating quizzes to test comprehension.
+The idea here is that a single source of content can be turned into any medium
+quickly and easily, allowing you to quickly distribute it across any medium or
+platform.
+
+https://jacalulu.substack.com/p/the-future-of-online-content
+
+2/5
+
+4/25/24, 9:40 PM
+
+(1) A Possible Future for Online Content
+
+3. User Specific Content:
+Intelligent Content Delivery: Forget generic news feeds. Generative AI can
+analyze user behavior and preferences to deliver highly relevant content at the
+right time and through the preferred channels. Imagine receiving breaking
+news alerts based on your interests, or having your daily news digest
+customized to your specific areas of focus. While the idea of personalization
+isn’t a new one - I think the ease at which we’ll actually be able to live up to
+this hype is going to mean it will become an even more integral aspect of how
+to “put the user first”.
+More Relevant Recommendations: Generative AI can facilitate deeper
+engagement with content. Users could ask questions about the content,
+request different perspectives, or even explore related topics through AIpowered recommendations. This can lead to longer engagements and deeper
+and more meaningful interactions.
+The takeaway here is that content delivery will be reimagined by generative AI's
+ability to personalize the user experience enabling the tailoring of information and
+recommendations, ultimately fostering deeper engagement and satisfaction.
+
+4. Understanding User Goals:
+Beyond Content Consumption: If you understand your users’ goals, you can
+better tailor their experience. Generative AI can help with both. First, it can
+assist with analyzing and understanding user behavior to help figure out what
+your users want - are they looking for work-related insights, exploring
+personal interests, or simply staying informed on current events? Secondly, it
+can take this understanding and help you to tailor the content experience, even
+suggesting relevant actions such as connecting with experts, joining online
+communities, or exploring educational resources.
+
+https://jacalulu.substack.com/p/the-future-of-online-content
+
+3/5
+
+4/25/24, 9:40 PM
+
+(1) A Possible Future for Online Content
+
+The Future is Flexible and Fluid:
+Ultimately, the goal here is to foster a more fluid and flexible content ecosystem.
+Capturing ideas on the fly through voice memos, images, or scribbled notes, and
+then using AI to transform them into polished articles. This both unlocks your
+creativity and also streamlines the writing process, allowing journalists to focus on
+the core of their work: insightful storytelling from a human perspective.
+Generative AI is not just about automating tasks; it's about augmenting human
+capabilities and creating a more personalized, engaging, and informative news
+experience. By embracing this technology, news companies can not only adapt to
+the evolving media landscape but also pioneer a new era of content creation and
+consumption.
+
+https://jacalulu.substack.com/p/the-future-of-online-content
+
+4/5
+
+4/25/24, 9:40 PM
+
+(1) A Possible Future for Online Content
+
+2 Likes
+
+Comments
+Write a comment...
+
+© 2024 Jaclyn Konzelmann - AI Product ∙ Privacy ∙ Terms ∙ Collection notice
+Substack is the home for great culture
+
+https://jacalulu.substack.com/p/the-future-of-online-content
+
+5/5
+
+
