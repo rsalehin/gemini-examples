@@ -12,13 +12,13 @@ This repository contains 7 examples from the [Google Gemini Cookbook](https://gi
 
 | Example Name | Description | Status |
 |--------------|-------------|--------|
-| 🚀 Apollo 11 | Historical context analysis | ⚙️ [Migration to JS/TS](https://github.com/rsalehin/gemini-examples/blob/main/js_gemini_demo/app.js) \| API Update |
-| 🔺 Guess the Shape | Visual recognition | ⚙️ Migration to JS/TS \| API Update |
-| 📖 Translate a Public Domain Book | Text processing pipeline | ⚙️ Migration to JS/TS \| API Update |
-| ✍️ Story Writing | Creative writing assistant | ⚙️ Migration to JS/TS \| API Update |
-| 🤖 Agents & Automatic Function Calling (Barista Bot) | Conversational AI | ⚙️ Migration to JS/TS \| API Update |
-| 🎤 Voice Memo | Audio processing example | ⚙️ Migration to JS/TS \| API Update |
-| 🐾 Opossum Search | Custom search engine implementation | ⚙️ Migration to JS/TS \| API Update |
+| 🚀 Apollo 11 | Historical context analysis | ⚙️ [Migration to JS/TS](https://github.com/rsalehin/gemini-examples/blob/main/js_gemini_demo/app.js) \| [API Update]() |
+| 🔺 Guess the Shape | Visual recognition | ⚙️ [Migration to JS/TS](https://github.com/rsalehin/gemini-examples/blob/main/js_gemini_demo/guess_shape.js) \| [API Update]() |
+| 📖 Translate a Public Domain Book | Text processing pipeline | ⚙️ [Migration to JS/TS](https://github.com/rsalehin/gemini-examples/blob/main/js_gemini_demo/book_translation.js) \| [API Update]() |
+| ✍️ Story Writing | Creative writing assistant | ⚙️ [Migration to JS/TS](https://github.com/rsalehin/gemini-examples/blob/main/js_gemini_demo/story_writing.js) \| [API Update]() |
+| 🤖 Agents & Automatic Function Calling (Barista Bot) | Conversational AI | ⚙️ [Migration to JS/TS](https://github.com/rsalehin/gemini-examples/blob/main/js_gemini_demo/barista_bot.js) \| [API Update]() |
+| 🎤 Voice Memo | Audio processing example | ⚙️ [Migration to JS/TS](https://github.com/rsalehin/gemini-examples/blob/main/js_gemini_demo/voice_memo.js) \| [API Update]() |
+| 🐾 Opossum Search | Custom search engine implementation | ⚙️ [Migration to JS/TS](https://github.com/rsalehin/gemini-examples/blob/main/js_gemini_demo/opossum_search.js) \| [API Update]() |
 
 
 
