@@ -1,7 +1,7 @@
 # gemini-examples
 Showcasing Personal Implementation of GSoC Gemini Project
 
-# Gemini Examples Migration to JavaScript (New SDK)
+# Gemini Examples Migration to JavaScript and Updating New SDK Calls in Python
 
 This repository contains 7 examples from the [Google Gemini Cookbook](https://github.com/google-gemini/cookbook), updated to:
 - **JavaScript/TypeScript** implementation
