@@ -12,7 +12,7 @@ This repository contains 7 examples from the [Google Gemini Cookbook](https://gi
 
 | Example Name | Description | Status |
 |--------------|-------------|--------|
-| 🚀 Apollo 11 | Historical context analysis | ⚙️ Migration to JS/TS \| API Update |
+| 🚀 Apollo 11 | Historical context analysis | ⚙️ [Migration to JS/TS](https://github.com/rsalehin/gemini-examples/blob/main/js_gemini_demo/app.js) \| API Update |
 | 🔺 Guess the Shape | Visual recognition | ⚙️ Migration to JS/TS \| API Update |
 | 📖 Translate a Public Domain Book | Text processing pipeline | ⚙️ Migration to JS/TS \| API Update |
 | ✍️ Story Writing | Creative writing assistant | ⚙️ Migration to JS/TS \| API Update |
